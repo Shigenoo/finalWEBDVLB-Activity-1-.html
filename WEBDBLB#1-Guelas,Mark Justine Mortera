@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f5f8;
+        }
+        .profile {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile h1 {
+            text-align: center;
+        }
+        .profile img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .profile p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="12345.jpeg"
+<body>
+	<header>
+<div style="display: flex; justify-content: center; align-items: center; height:100px;">
+<h1>Mark Justine Guelas - INFORMATION TECNOLOGY
+</h1>
+     <p>Website: <a href="https://m.facebook.com/profile.php/?id=100087458264167">facebook</a>
+     <br>
+      <a href="https://www.instagram.com/shigenooooo/?hl=en">Instagram</a>
+      <br>
+      <a href="https://twitter.com/Shigenoooooo?t=s_XU5sFed2jwu_Q5-5jZ2w&s=09">Twitter</a>
+      </p>
+</div>
+</header>
+	<main>
+	  <section>
+<hr width="100%" size="3" color="black"> 
+			<h3>Summary</h3>
+			<p>Hello, My name is Justine Guelas, and I am a second-year college student at "EARIST CAVITE CAMPUS". I am a web developer with experience in C, C++, C#, HTML, CSS, JavaScript, and Adobe Photoshop. I also have skills in responsive web design and have experience working on various CMS platforms that I learned at my school. I am a friendly and cooperative team player who enjoys studying new and basic technologies in web development. I’m also developing some websites and web apps, and I expect to make a major contribution to future projects.
+			</p>
+			
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Skills</h3>
+			<ul>
+				<li>C</li>
+				<li>C++</li>
+				<li>C#</li>
+				<li>HTML</li>
+				<li>Css</li>
+				<li>JavaScript</li>
+				<li>Adobe Photoshop</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Experience</h3>
+			<ul>
+			<li>National Certificate ll Passer "Computer System Servicing"
+			</li>
+			<li>Developed Website using C, C++, C#, HTML, CSS, JavaScript,Adobe Photo Shop.
+			</li>
+			<li>Designed and built user-friendly website interfaces using C, C++, C#, HTML, CSS, and JavaScript
+			</li>
+			<li>Utilized Adobe Photo Shop to create visually appealing graphics and images for the website
+			</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+			<article>
+		<h4>Technical Skills</h4>
+		<p>Hardware &#9658; Assembly, Maintenance, Troubleshootin 
+		</p>
+			<p>Operating Systems &#9658; Intall Microsoft Windows 7, 8, 10, Linux, Android, IOS
+			</p>
+			<p>Programming Languages &#9658; C, C++, C#, HTML, CSS, JavaScript, and Adobe Photoshop.
+			</p>
+<hr width="100%" size="3" color="black"> 
+		</ul>
+			</article>
+	
+		<section>
+			<h3>Education</h3>
+			<article>
+        <p>Area J Elementary School &#9658; Year Graduated:2014-2015</p>
+        <p>General Mariano Alvarez Technical HighSchool &#9658; Year Graduated:2018-2019</p>
+        <p>PHILTECH GMA CAVITE Senior High &#9658; Year Graduated:2020-2021</p>
+				<p>Bachelor of Science in Information Tecnology EARIST CAVITE CAMPUS &#9658;Year Graduated: Undergradute</p>
+			</article>
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Contact</h3>
+			<ul>
+				<li>Email:Guelas.markjustine.eccbsinfotech@gmail.com
+				</li>
+				<li>Phone: +63 926-753-7445</li>
+				<li>Address: BRGY GAVINO MADERAN B-21 LOT-9, SAMAR STREET, GMA CAVITE</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+		</section>
+	</main>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f5f8;
+        }
+        .profile {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile h1 {
+            text-align: center;
+        }
+        .profile img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .profile p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="12345.jpeg"
+<body>
+	<header>
+<div style="display: flex; justify-content: center; align-items: center; height:100px;">
+<h1>Mark Justine Guelas - INFORMATION TECNOLOGY
+</h1>
+     <p>Website: <a href="https://m.facebook.com/profile.php/?id=100087458264167">facebook</a>
+     <br>
+      <a href="https://www.instagram.com/shigenooooo/?hl=en">Instagram</a>
+      <br>
+      <a href="https://twitter.com/Shigenoooooo?t=s_XU5sFed2jwu_Q5-5jZ2w&s=09">Twitter</a>
+      </p>
+</div>
+</header>
+	<main>
+	  <section>
+<hr width="100%" size="3" color="black"> 
+			<h3>Summary</h3>
+			<p>Hello, My name is Justine Guelas, and I am a second-year college student at "EARIST CAVITE CAMPUS". I am a web developer with experience in C, C++, C#, HTML, CSS, JavaScript, and Adobe Photoshop. I also have skills in responsive web design and have experience working on various CMS platforms that I learned at my school. I am a friendly and cooperative team player who enjoys studying new and basic technologies in web development. I’m also developing some websites and web apps, and I expect to make a major contribution to future projects.
+			</p>
+			
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Skills</h3>
+			<ul>
+				<li>C</li>
+				<li>C++</li>
+				<li>C#</li>
+				<li>HTML</li>
+				<li>Css</li>
+				<li>JavaScript</li>
+				<li>Adobe Photoshop</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Experience</h3>
+			<ul>
+			<li>National Certificate ll Passer "Computer System Servicing"
+			</li>
+			<li>Developed Website using C, C++, C#, HTML, CSS, JavaScript,Adobe Photo Shop.
+			</li>
+			<li>Designed and built user-friendly website interfaces using C, C++, C#, HTML, CSS, and JavaScript
+			</li>
+			<li>Utilized Adobe Photo Shop to create visually appealing graphics and images for the website
+			</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+			<article>
+		<h4>Technical Skills</h4>
+		<p>Hardware &#9658; Assembly, Maintenance, Troubleshootin 
+		</p>
+			<p>Operating Systems &#9658; Intall Microsoft Windows 7, 8, 10, Linux, Android, IOS
+			</p>
+			<p>Programming Languages &#9658; C, C++, C#, HTML, CSS, JavaScript, and Adobe Photoshop.
+			</p>
+<hr width="100%" size="3" color="black"> 
+		</ul>
+			</article>
+	
+		<section>
+			<h3>Education</h3>
+			<article>
+        <p>Area J Elementary School &#9658; Year Graduated:2014-2015</p>
+        <p>General Mariano Alvarez Technical HighSchool &#9658; Year Graduated:2018-2019</p>
+        <p>PHILTECH GMA CAVITE Senior High &#9658; Year Graduated:2020-2021</p>
+				<p>Bachelor of Science in Information Tecnology EARIST CAVITE CAMPUS &#9658;Year Graduated: Undergradute</p>
+			</article>
+<hr width="100%" size="3" color="black"> 
+		</section>
+		<section>
+			<h3>Contact</h3>
+			<ul>
+				<li>Email:Guelas.markjustine.eccbsinfotech@gmail.com
+				</li>
+				<li>Phone: +63 926-753-7445</li>
+				<li>Address: BRGY GAVINO MADERAN B-21 LOT-9, SAMAR STREET, GMA CAVITE</li>
+			</ul>
+<hr width="100%" size="3" color="black"> 
+		</section>
+	</main>
+</body>
+</html>
